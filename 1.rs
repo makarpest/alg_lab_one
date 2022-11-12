@@ -5,4 +5,3 @@ fn main() {
         .to_string().parse::<i32>().unwrap();
     print!("{}", out);
 }
-
